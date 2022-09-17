@@ -7,3 +7,6 @@ Want pull? Go to [Pull requests](https://github.com/GDenisC/GDPSInstaller-androi
 ---
 Have idea, question or just want chat? Go to [Discussions](https://github.com/GDenisC/GDPSInstaller-android/discussions)
 ---
+## Big thanks to
+-------------------
+APKTOOL - https://github.com/iBotPeaches/Apktool
