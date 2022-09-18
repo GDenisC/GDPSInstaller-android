@@ -1,0 +1,7 @@
+0
+
+-------------------------------------------------------------------
+
+You using signapk from java9? (1/0)
+
+if you set to 1 you can use java9, but not java10 and higher
