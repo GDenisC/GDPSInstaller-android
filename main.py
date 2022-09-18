@@ -161,4 +161,4 @@ except Exception as e:
     log('! YOU NEED REINSTALL GDPS INSTALLER OR CLEAR ./ANDROID/ FILES TO FIX OTHER ERRORS !', error='ERROR')
 
 log('Android builded.')
-os.system('pause')
+os.system('pause') # P.S .exe not have that line
